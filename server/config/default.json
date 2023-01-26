@@ -1,4 +1,4 @@
 {
   "serverPort": 5000,
-  "dbUrl": "mongodb+srv://arsicar:<160140133>@cluster0.7y3noi0.mongodb.net/?retryWrites=true&w=majority"
+  "dbUrl": "mongodb+srv://arsicar:160140133@cluster0.7y3noi0.mongodb.net/?retryWrites=true&w=majority"
 }
